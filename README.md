@@ -11,9 +11,6 @@ This experiment should include 2 variations, one variation which re-styles the t
 ### Optimizely Docs:
 https://docs.developers.optimizely.com/full-stack/v4.0/docs
 
-### Optimizely Docs:
-https://docs.developers.optimizely.com/full-stack/v4.0/docs
-
 ### React SDK Methods:
 https://docs.developers.optimizely.com/full-stack/v4.0/docs/javascript-react-sdk
 
